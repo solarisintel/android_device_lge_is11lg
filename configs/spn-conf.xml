@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<spnOverrides>
+  <!-- Japan -->
+  <spnOverride numeric="44010" spn="NTT DOCOMO"/>
+  <spnOverride numeric="44020" spn="SoftBank" />
+  <spnOverride numeric="44050" spn="KDDI" />
+  <spnOverride numeric="44053" spn="KDDI" />
+  <spnOverride numeric="44054" spn="KDDI" />
+  <spnOverride numeric="44060" spn="KDDI" />
+  <spnOverride numeric="44070" spn="KDDI" />
+  <spnOverride numeric="44071" spn="KDDI" />
+  <spnOverride numeric="44072" spn="KDDI" />
+  <spnOverride numeric="44073" spn="KDDI" />
+  <spnOverride numeric="44074" spn="KDDI" />
+  <spnOverride numeric="44075" spn="KDDI" />
+  <spnOverride numeric="44076" spn="KDDI" />
+</spnOverrides>
